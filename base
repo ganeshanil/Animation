@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Will You Marry Me?</title>
+    <title>Enthanu Gadiyude Future Plan?</title>
     <style>
         body {
             text-align: center;
@@ -41,9 +41,9 @@
 </head>
 <body>
 
-    <h1>Will You Marry Me? 💍❤️</h1>
+    <h1>Enne Istamano 💍❤️</h1>
 
-    <button id="yes" class="btn" onclick="yesClicked()">Yes 💖</button>
+    <button id="yes" class="btn" onclick="yesClicked()">Yes, orupadu ishtamanu 💖</button>
     <button id="no" class="btn">No 😢</button>
 
     <script>
